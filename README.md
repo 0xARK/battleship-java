@@ -17,7 +17,7 @@ BattleShip TP in Java
 
 - Java
 
-#### Library/Framework/techno
+#### Libraries / Framework used
 
 - JSON
 
